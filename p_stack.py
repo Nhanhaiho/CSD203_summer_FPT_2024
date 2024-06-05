@@ -74,3 +74,5 @@ stack.push()
 stack.display_stack()
 top = stack.print_top_of_stack()
 print(top)
+
+print('hello world')
